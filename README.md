@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-iOS Developer with 4.5+ years of experience building scalable mobile applications using Swift, SwiftUI, UIKit, and MVVM architecture.<br><br>📱 iOS Development<br>🏗 MVVM & VIPER Architecture<br>🌐 REST APIs Integration<br>☁️ AEM Sites Authoring
+iOS Developer with 4.5+ years of experience building scalable mobile applications using Swift, SwiftUI, UIKit, and MVVM architecture.<br><br>📱 iOS Development<br>📚Swift, SwiftUI, UIKit<br>🏗 MVVM & VIPER Architecture<br>🌐 REST APIs Integration<br>☁️ AEM Sites Authoring
 
 
 ## 🌐 Socials:
